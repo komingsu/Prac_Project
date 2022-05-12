@@ -1,0 +1,7 @@
+
+kaggle/Safe_Driver_Prediction/data/train.csv
+kaggle/Safe_Driver_Prediction/data/test.csv
+*.csv
+*.jpg
+*.xlsx
+kaggle/Safe_Driver_Prediction/Untitled.ipynb
