@@ -5,3 +5,9 @@ kaggle/Safe_Driver_Prediction/data/test.csv
 *.jpg
 *.xlsx
 kaggle/Safe_Driver_Prediction/Untitled.ipynb
+*.png
+*.jpeg
+*.pdf
+*.pdf
+*.npy
+*.p
